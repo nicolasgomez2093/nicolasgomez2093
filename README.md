@@ -4,7 +4,9 @@ Hi 👋 My name is Nicolás Gómez
 Fullstack Web Develop MERN
 --------------------------
 
-I am looking for my first experience as a developer to help me learn and grow in this world!
+I am a fullstack MERN developer with experience working in the commercial development team at Sitenso. In this role, I have been involved in projects from start to finish, from planning and design to implementation and delivery. My experience includes working on the creation of scalable and high-performance web applications using technologies such as React, Node.js, and MongoDB.
+
+Currently, I am looking for new challenges to continue learning and improving my skills. I am passionate about the world of software development and enjoy working in a team to find creative solutions to problems.
 
 * 🌍  I'm based in Tucumán - Argentina
 * ✉️  You can contact me at [nicolasgomez2093@gmail.com](mailto:nicolasgomez2093@gmail.com)
