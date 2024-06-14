@@ -4,9 +4,11 @@ Hi 👋 My name is Nicolás Gómez
 Fullstack Web Develop MERN
 --------------------------
 
-I am a fullstack MERN developer with experience working in the commercial development team at Sitenso. In this role, I have been involved in projects from start to finish, from planning and design to implementation and delivery. My experience includes working on the creation of scalable and high-performance web applications using technologies such as React, Node.js, and MongoDB.
+Currently, I am part of the E2E Travel Solutions team within the Tije Group, where I hold the role of Fullstack Developer. My experience covers a wide range of technologies, including React, Python, PHP, MySQL, MongoDB, AWS and Docker.
 
-Currently, I am looking for new challenges to continue learning and improving my skills. I am passionate about the world of software development and enjoy working in a team to find creative solutions to problems.
+I excel in my ability to quickly adapt to new technologies and working methodologies. This ability allows me to contribute effectively to the projects I am involved in, offering innovative and efficient solutions.
+
+I constantly seek opportunities to expand my knowledge and keep abreast of the latest advances in the field of software development. I am committed to continuous learning and constant improvement in my professional career.
 
 * 🌍  I'm based in Tucumán - Argentina
 * ✉️  You can contact me at [nicolasgomez2093@gmail.com](mailto:nicolasgomez2093@gmail.com)
