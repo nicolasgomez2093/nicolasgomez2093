@@ -1,14 +1,14 @@
 Hi 👋 My name is Nicolás Gómez
 ==============================
 
-Fullstack Web Develop MERN
---------------------------
+🚀 I am a Backend-focused Developer with a strong foundation in Fullstack technologies, currently building high-performance solutions for the global travel industry. My daily work involves developing scalable systems and modernizing critical architectures for international clients.  
 
-Currently, I am part of the E2E Travel Solutions team within the Tije Group, where I hold the role of Fullstack Developer. My experience covers a wide range of technologies, including React, Python, PHP, MySQL, MongoDB, AWS and Docker.
+🛠️ My core expertise lies in Go (Golang), focusing on concurrency and microservices, but I also leverage a versatile stack including PHP, React, and SQL to deliver end-to-end solutions. I have a proven track record of handling complex system migrations and optimizing payment and booking workflows.  
 
-I excel in my ability to quickly adapt to new technologies and working methodologies. This ability allows me to contribute effectively to the projects I am involved in, offering innovative and efficient solutions.
+I thrive in fast-paced, remote environments where quick adaptation and continuous learning are key. I’m passionate about writing clean, efficient code and automating workflows to bridge the gap between complex business logic and seamless user experiences.  
 
-I constantly seek opportunities to expand my knowledge and keep abreast of the latest advances in the field of software development. I am committed to continuous learning and constant improvement in my professional career.
+
+🧰 Tech Stack * Languages & Backend: Go (Golang), PHP, Python, Node.js, SQL. * Frontend: React.js, JavaScript, HTML5, CSS3/SASS. * Tools & Cloud: AWS, Docker, Git.
 
 * 🌍  I'm based in Tucumán - Argentina
 * ✉️  You can contact me at [nicolasgomez2093@gmail.com](mailto:nicolasgomez2093@gmail.com)
